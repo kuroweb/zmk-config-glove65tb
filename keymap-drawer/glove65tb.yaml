@@ -399,3 +399,7 @@ layers:
 combos:
 - p: [49, 50]
   k: SCROLL
+- p: [48, 49, 50]
+  k: '&mkp MB4'
+- p: [49, 50, 51]
+  k: '&mkp MB5'
