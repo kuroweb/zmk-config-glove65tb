@@ -232,7 +232,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - VOLUME UP
-  - Ctl+1
+  - {t: ▽, type: trans}
   - Ctl+2
   - LEFT ARROW
   - DOWN ARROW
@@ -247,7 +247,7 @@ layers:
   - {t: ▽, type: trans}
   - VOLUME DOWN
   - '`'
-  - {t: ▽, type: trans}
+  - Ctl+1
   - '&mkp LCLK'
   - '&mkp RCLK'
   - '&mkp MCLK'
