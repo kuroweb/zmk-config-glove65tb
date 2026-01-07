@@ -232,8 +232,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - VOLUME UP
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Ctl+1
+  - Ctl+2
   - LEFT ARROW
   - DOWN ARROW
   - RIGHT ARROW
